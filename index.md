@@ -4,7 +4,7 @@
 > 收集范围：青蒿（*Artemisia annua* L.）**合成通路、前体物质、转录因子、激素调控、研究方法论、基因组与组学数据库**，以及**复旦-交大-诺丁汉植物生物技术研发中心（唐克轩团队）**相关文献与机构信息。全部条目含可核验的 DOI/PMID，关键结论均来自所引文献；内容采用**中英双语（每章含 English Summary）**，便于跨语言直接调用。
 >
 > **English**: A topic knowledge base for agro-botany / medicinal-plant metabolism and synthetic biology.
-> Scope: artemisinin biosynthesis **pathway, precursors, transcription factors, hormone regulation, methodology, genome & omics databases**, plus literature and institutional info on the **Fudan–SJTU–Nottingham Plant Biotechnology R&D Center (Prof. Kexuan Tang)**. Every entry carries a verifiable DOI/PMID; each chapter includes an **English Summary**, so it can be used directly in either language.
+> Scope: artemisinin biosynthesis **pathway, precursors, transcription factors, hormone regulation, methodology, genome & omics databases**, plus literature and institutional info on the **Fudan–SJTU–Nottingham Plant Biotechnology R&D Center (Prof. Kexuan Tang)**. DOIs and PMIDs are supplied where available; [to-check] entries require verification; each chapter includes an **English Summary**, so it can be used directly in either language.
 >
 > **跨机器调用（GitHub 源）**：本知识库已同步至公开仓库 https://github.com/Grav1ty666/artemisinin-knowledge-base 。在其他机器/会话中 `git clone` 或下载后，按下方"一、如何使用"即可调用；也可让任意 AI 直接读取 `literature_index.json` 做程序化检索。英文总览见 `README.md`。
 > **Cross-machine use (GitHub)**: synced to the public repo https://github.com/Grav1ty666/artemisinin-knowledge-base . On another machine, `git clone` or download, then follow "一、如何使用 / How to use" below; an AI can also read `literature_index.json` for programmatic search. See `README.md` for the English overview.

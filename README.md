@@ -1,6 +1,6 @@
 # Artemisinin Research Knowledge Base
 
-A modular, citation-backed knowledge base for researchers working on **artemisinin (青蒿素) biosynthesis, metabolic engineering, and glandular-trichome regulation in _Artemisia annua_ L.** Every entry carries a verifiable DOI / PMID, and each chapter includes a bilingual (Chinese + English) summary so the material can be used directly in either language.
+A modular, citation-backed knowledge base for researchers working on **artemisinin (青蒿素) biosynthesis, metabolic engineering, and glandular-trichome regulation in _Artemisia annua_ L.** DOIs and PMIDs are provided where available; items marked [to-check] still require verification, and each chapter includes a bilingual (Chinese + English) summary so the material can be used directly in either language.
 
 > 本仓库为中文知识库的英文总览。中文入口见 [`index.md`](index.md)。
 
@@ -51,12 +51,12 @@ A modular, citation-backed knowledge base for researchers working on **artemisin
 - Yu ZX *et al.* (2012) AaERF1/2. *Mol Plant* 5:353–365. **10.1093/mp/ssr087** (PMID 22104293)
 - Lu X *et al.* (2013) AaORA. *New Phytol* 198:1191–1202. **10.1111/nph.12207** (PMID 23448426)
 - Shen Q *et al.* (2016) AaMYC2. *New Phytol* 210:1269–1281. **10.1111/nph.13874** (PMID 26864531)
-- Chen M *et al.* (2017) AaGSW1/WRKY1. *New Phytol* 214:304–316. **10.1111/nph.14373** (PMID 28001315)
+- Chen M *et al.* (2017) AaGSW1. *New Phytol* 214:304–316. **10.1111/nph.14373** (PMID 28001315)
 - Yan T *et al.* (2017) AaHD1. *New Phytol* 213:1145–1155. **10.1111/nph.14205** (PMID 27659595)
 - Shi P *et al.* (2017) AaMIXTA1. *New Phytol*. **10.1111/nph.14789**
 - Ma YN *et al.* (2021) AaGSW1–AaTCP15/AaORA cascade. *Plant Biotechnol J* 19:1412–1428. **10.1111/pbi.13561** (PMID 33539631)
 - He W *et al.* (2024) AaBBX21–AaHY5. *J Integr Plant Biol*. **10.1111/jipb.13708** (PMID 38980203)
-- Single-nucleus trichome atlas (2025). *Nat Commun*. **10.1038/s41467-025-63770-y** (CNGBdb CNP0006977)
+- Zhang M *et al.* (2025) Single-nucleus trichome atlas. *Nat Commun* 16:8646. **10.1038/s41467-025-63770-y** (PMID 41028755; CNGBdb CNP0006977, file availability not independently verified)
 - Hi-C chromatin architecture (2023). *Planta*. **10.1007/s00425-023-04223-y** (SRA PRJNA991086)
 
 ## Note on accuracy
